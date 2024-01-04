@@ -1,7 +1,7 @@
 # Beijing-Pollution-Model
 
-Pollution_LSTM.ipynb -- LSTM model predicting future pollution levels in Beijing
+Beijing_Air_Quality_Forecasting_Model.ipynb -- LSTM model predicting future pollution levels in Beijing
 
-Beijing Pollution Dashboard.pbix -- Power BI dashboard displaying insights from data
+Actual_vs._Predicted_Air_Quality_Dashboard.pbix -- Power BI dashboard displaying insights from data
 
-Beijing_Pollution_Dashboard_SAMPLE.png -- screenshot of Beijing Pollution Dashboard.pbix
+Actual_vs._Predicted_Air_Quality_Dashboard_SAMPLE.png -- screenshot of Actual_vs._Predicted_Air_Quality_Dashboard.pbix
